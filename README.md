@@ -1,5 +1,20 @@
-### Hi there 👋
+### Hello there! 👋
+My name is Antonio **(He/Him)**. I am a computer science student at TEC de Monterrey, Guadalajara. 
 
+#### Interests:🔭
+ <ul> 
+  <li> Web Development </li> 
+  <li> Machine Learning </li> 
+  <li> Math </li>
+</ul> 
+
+🖥 Learning: Web Backend technologies 
+
+🧐 Open to work or internships!
+
+😁 Pronouns: He/Him 
+
+📧 Contact me: antonioch.mon@gmail.com
 <!--
 **antonieto/antonieto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +29,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
