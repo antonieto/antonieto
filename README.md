@@ -4,7 +4,7 @@ My name is Antonio **(He/Him)**. I am a computer science student at TEC de Monte
 #### Interests:🔭
  <ul> 
   <li> Web Development </li> 
-  <li> Machine Learning </li> 
+  <li> Software Engineering </li> 
   <li> Math </li>
 </ul> 
 
