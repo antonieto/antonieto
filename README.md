@@ -8,7 +8,7 @@ My name is Antonio **(He/Him)**. I am a computer science student at TEC de Monte
   <li> Math </li>
 </ul> 
 
-🖥 Learning: Web Backend technologies 
+🖥 Learning: Microservices architecture and AI
 
 🧐 Open to work or internships!
 
