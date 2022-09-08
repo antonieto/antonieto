@@ -1,5 +1,5 @@
 ### Hello there! 👋
-My name is Antonio **(He/Him)**. I am a computer science student at TEC de Monterrey, Guadalajara. 
+My name is Antonio (He/Him). I am a computer science student at TEC de Monterrey, Guadalajara. 
 
 #### Interests:🔭
  <ul> 
